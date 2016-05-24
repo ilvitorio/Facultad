@@ -6,6 +6,10 @@ EDO - Final Oral
 TPs
 
 Analisis Matricial - PCA
+Modern Multivariate Statistical Techniques: Regression, Classification, and Manifold Learning (Springer Texts in Statistics)
+Principal Component Analysis (Springer Series in Statistics)
+"Numerical Linear Algebra" by Trefethen and Bau (For SVD discussions)
+
 Teoria de Operadores - Operadores de Convoluzion en las finanzas
 Analsis de Fourier - Analisis espectral o BS por Fourier
 Teoria de Integracion y medida - Shreve en medida ( aplicacion a las finanzas)
