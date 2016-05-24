@@ -11,9 +11,22 @@ Principal Component Analysis (Springer Series in Statistics)
 "Numerical Linear Algebra" by Trefethen and Bau (For SVD discussions)
 
 Teoria de Operadores - Operadores de Convoluzion en las finanzas
+High frequency Finance Operators (convolution and microscopic operators)
+
 Analsis de Fourier - Analisis espectral o BS por Fourier
+Introduction to Spectral Analysis  - Petre Stoica
+The Spectral Analysis of Time Series (Probability and Mathematical Statistics) -  Lambert H. Koopmans
+https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=sce2007&paper_id=21
+ABove is the spectral analysis of the time series
+
+
 Teoria de Integracion y medida - Shreve en medida ( aplicacion a las finanzas)
+Proponer el libro de Shreve y hacer un bridge entre eso y las finanzas? O tal vez construir el browniano y su medida?
+
+
 Sistemas adaptativos - SVM aplicado a las series financieras con muchos kernels
+
+
 Modelos y sistemas probabilisticos - hacer TPs
 
 
