@@ -12,6 +12,7 @@ Principal Component Analysis (Springer Series in Statistics)
 
 Teoria de Operadores - Operadores de Convoluzion en las finanzas
 High frequency Finance Operators (convolution and microscopic operators)
+Image Analysis, Random Fields and Markov Chain Monte Carlo Methods - Winkler, Gerhard (posiblemente random operators)
 
 Analsis de Fourier - Analisis espectral o BS por Fourier
 Introduction to Spectral Analysis  - Petre Stoica
