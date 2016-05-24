@@ -1,0 +1,30 @@
+Materias pendientes
+
+Analisis Funcional - Final
+EDO - Final Oral
+
+TPs
+
+Analisis Matricial - PCA
+Teoria de Operadores - Operadores de Convoluzion en las finanzas
+Analsis de Fourier - Analisis espectral o BS por Fourier
+Teoria de Integracion y medida - Shreve en medida ( aplicacion a las finanzas)
+Sistemas adaptativos - SVM aplicado a las series financieras con muchos kernels
+Modelos y sistemas probabilisticos - hacer TPs
+
+
+
+
+Trabajos adicionales
+Fundamentos del analisis matematico - Trabajo extra mandar correo
+
+
+
+Listas
+Sistemas dinamicos - ready
+
+
+
+Probable 
+Modelos y sistemas deterministicos 
+Ecuaciones dif en deriv parciales
